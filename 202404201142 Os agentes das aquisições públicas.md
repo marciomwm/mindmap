@@ -1,0 +1,38 @@
+---
+aliases:
+  - "202404201142"
+  - Os agentes das aquisições públicas
+Data: 2024-08-11
+tags:
+  - Direito/Administrativo/Aquisições
+  - Aquisições-Públicas/Agentes
+Antes:
+  - "[[202503232057 Elementos das Aquisições Públicas]]"
+---
+Agentes das aquisições públicas são todos os envolvidos em diferentes dimensões do processo. 
+
+Entendo que podemos classificar os agentes das aquisições públicas em: 
+
+- Agentes de Interesse
+- Agentes de Gestão
+- Agentes de Ação
+
+## Agentes de Interesse
+Por agente de interesse entendo como cada um de nós, convivendo em sociedade, com problemas coletivos a serem resolvidos pelo Estado. Portanto, a sociedade é o principal agente das aquisições, pois parte dela o interesse público que organiza todos os mecanismos para sua própria satisfação.
+## Agentes de Gestão
+Na dinâmica das aquisições públicas, verifica-se dois polos que se organizam administrativamente para gerir seus recursos e que interagem dinamicamente, se sujeitando aos procedimentos estabelecidos um pelo outro. Então, temos os **sujeitos públicos** (Administração Pública) e os **sujeitos privados**. 
+
+- Sujeito Público = Administração Pública
+- Sujeito Privado = Profissionais autônomos, Empresas...  
+## Agentes de Ação
+São os agentes de ação pessoas designadas pelos sujeitos públicos e privados para agirem efetivamente no processo de aquisição. Portanto, verifica-se também a exigência de agentes público das aquisições e dos agentes privados das aquisições. 
+
+A designação dos agentes públicos deve ser realizada considerando a gestão por competência, conforme requisitos disposto no [art. 7°](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#:~:text=DOS%20AGENTES%20P%C3%9ABLICOS-,Art.%207%C2%BA,-Caber%C3%A1%20%C3%A0%20autoridade), da Lei n. 14.133/2021. 
+
+![[Pasted image 20250713094112.png]]
+
+
+> [!subtopicos]- Subtópicos
+>  ![[BD. Zettel.base#Sumário]]
+---
+**Antes**: `=this.antes`
